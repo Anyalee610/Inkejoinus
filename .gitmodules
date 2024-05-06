@@ -1,0 +1,6 @@
+[submodule "Inke_Backend"]
+	path = Inke_Backend
+	url = https://github.com/Anyalee610/Inke_Backend.git
+[submodule "react-app-aorio"]
+	path = react-app-aorio
+	url = https://github.com/Anyalee610/react-app-aorio.git
