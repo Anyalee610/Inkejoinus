@@ -1,8 +1,0 @@
-asgiref
-Django
-django-cors-headers
-djangorestframework
-environs
-sqlparse
-psycopg2-binary
-python-dotenv
